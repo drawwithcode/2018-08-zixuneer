@@ -66,7 +66,7 @@ function rains(x,y,size,alp){
 
 function deviceShaken() {
   value = value + 10;
-  sca = sca+0.3;
+  sca = sca+0.5;
   if (sca > 100) {
     sca = 100;
   }
