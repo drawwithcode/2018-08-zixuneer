@@ -3,7 +3,7 @@ var sca = 0;
 var img2;
 var rain = [];
 var a = 0.1;
-var accelation = 0.002;
+var accelation = 0.005;
 
 function preload(){
   img2=loadImage('./assets/2.png');
